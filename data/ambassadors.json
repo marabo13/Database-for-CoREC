@@ -1,0 +1,16 @@
+{
+  "duties": [
+    "Represent the organization",
+    "Handle external relations"
+  ],
+  "council": [
+    { "name": "Alice", "role": "Head Ambassador" },
+    { "name": "Bob", "role": "Deputy" }
+  ],
+  "hierarchy": [
+    "Head Ambassador",
+    "Deputy",
+    "Member"
+  ],
+  "laws_link": "https://example.com"
+}
