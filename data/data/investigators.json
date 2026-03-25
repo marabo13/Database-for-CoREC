@@ -1,0 +1,16 @@
+{
+  "duties": [
+    "Investigate cases",
+    "Collect evidence"
+  ],
+  "council": [
+    { "name": "Eve", "role": "Chief Investigator" },
+    { "name": "John", "role": "Senior Investigator" }
+  ],
+  "hierarchy": [
+    "Chief Investigator",
+    "Senior Investigator",
+    "Junior Investigator"
+  ],
+  "laws_link": "https://example.com"
+}
