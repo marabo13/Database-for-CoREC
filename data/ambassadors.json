@@ -1,16 +1,15 @@
 {
   "duties": [
-    "Represent the organization",
-    "Handle external relations"
+    "Represent the organization to external bodies",
+    "Facilitate diplomatic communication",
+    "Enforce organization protocols"
   ],
   "council": [
-    { "name": "Alice", "role": "Head Ambassador" },
-    { "name": "Bob", "role": "Deputy" }
+    { "name": "Axronomore", "role": "Head Ambassador" }
   ],
   "hierarchy": [
     "Head Ambassador",
-    "Deputy",
-    "Member"
+    "Ambassador Member"
   ],
-  "laws_link": "https://example.com"
+  "laws_link": "https://example.com/ambassador-laws"
 }
