@@ -1,16 +1,19 @@
 {
   "duties": [
-    "Investigate cases",
-    "Collect evidence"
+    "Investigating cases",
+    "Gathering evidence",
+    "Mediating disputes",
+    "Presenting truthful reports to the Council",
+    "Read and understand the Jedi Investigator Handbook"
   ],
   "council": [
-    { "name": "Eve", "role": "Chief Investigator" },
-    { "name": "John", "role": "Senior Investigator" }
+    { "name": "marabo13", "role": "Head Investigator" },
+    { "name": "Thommpt3", "role": "Deputy Investigator" }
   ],
   "hierarchy": [
-    "Chief Investigator",
-    "Senior Investigator",
-    "Junior Investigator"
+    "Head Investigator",
+    "Deputy Investigator",
+    "Investigator Member"
   ],
-  "laws_link": "https://example.com"
+  "laws_link": "https://docs.google.com/document/d/1NROOkeioZ5jtGFuzXBNy6eF8ansm8RsXKs3odT2GxoY/edit?usp=sharing"
 }
